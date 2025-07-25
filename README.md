@@ -2,6 +2,7 @@
 - 💞️ I love programming
 <br>- 📫 I’m learning new languages
 <br>- 🌱 Currently trying to learn Golang
+<br>✦ Tailwind CSS
 <br>
 <br><h2> Languages and Tools</h2>
 <br>✦ HTML & CSS
